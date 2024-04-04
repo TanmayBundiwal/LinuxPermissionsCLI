@@ -1,5 +1,7 @@
 # Linux File Permissions Management Project
 
+## Did this for a course I was taking at Google courses on linux and sql. 
+
 This repository hosts my project on managing file permissions in Linux. It demonstrates my proficiency with command-line tools for enhancing system security and access control.
 
 ## Overview
